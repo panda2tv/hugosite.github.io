@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tech blog for hugo website building</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://panda2tv.github.io/posts/</link>
     <description>Recent content in Posts on Tech blog for hugo website building</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Sep 2022 20:08:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 20:08:31 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo theme Syna 从测试到放弃</title>
-      <link>http://localhost:1313/posts/synadump/</link>
+      <link>https://panda2tv.github.io/posts/synadump/</link>
       <pubDate>Fri, 30 Sep 2022 20:08:31 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/synadump/</guid>
+      <guid>https://panda2tv.github.io/posts/synadump/</guid>
       <description>在调试hugo的theme Syna的时候碰到如下种种问题解决不了，就及时放弃 下载主题后起server，主页空白无内容；去syna主页研究了下</description>
     </item>
     
     <item>
-      <title>1stopsitebuild</title>
-      <link>http://localhost:1313/posts/1stopsitebuild/</link>
+      <title>1stop site build</title>
+      <link>https://panda2tv.github.io/posts/1stopsitebuild/</link>
       <pubDate>Fri, 16 Sep 2022 19:44:38 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/1stopsitebuild/</guid>
+      <guid>https://panda2tv.github.io/posts/1stopsitebuild/</guid>
       <description>1 github 创建新的private repo 1stopnewsitecode; clone 到本地D:\hugo\site目录下,为本地hugo代码目录； 2 github 创建新的private repo 1stopnewsitecodedeploy.io; clone 到本地D:\h</description>
     </item>
     
     <item>
       <title>git操作要求输入用户名和密码问题</title>
-      <link>http://localhost:1313/posts/mypost/</link>
+      <link>https://panda2tv.github.io/posts/mypost/</link>
       <pubDate>Fri, 16 Sep 2022 17:01:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/mypost/</guid>
+      <guid>https://panda2tv.github.io/posts/mypost/</guid>
       <description>根据youtuber Ryan Schachte作者教程搭建git开发环境； 问题一： 使用git push老是碰到：Username for &amp;lsquo;https://github.com&amp;rsquo;: 即使把SSH key</description>
     </item>
     
