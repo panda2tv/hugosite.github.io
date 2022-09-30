@@ -11,24 +11,24 @@
     
   
 
-  <title>git操作要求输入用户名和密码问题 | Tech blog for hugo website building</title>
+  <title>1stopsitebuild | Tech blog for hugo website building</title>
 
   
   <meta name="author" content="Murphy">
   
-  <meta name="description" content="根据youtuber Ryan Schachte作者教程搭建git开发环境； 问题一： 使用git push老是碰到：Username for &lsquo;https://github.com&rsquo;: 即使把SSH key">
+  <meta name="description" content="1 github 创建新的private repo 1stopnewsitecode; clone 到本地D:\hugo\site目录下,为本地hugo代码目录； 2 github 创建新的private repo 1stopnewsitecodedeploy.io; clone 到本地D:\h">
   <meta name="keywords" content="blog,developer,personal">
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="git操作要求输入用户名和密码问题"/>
-<meta name="twitter:description" content="根据youtuber Ryan Schachte作者教程搭建git开发环境； 问题一： 使用git push老是碰到：Username for &lsquo;https://github.com&rsquo;: 即使把SSH key"/>
+<meta name="twitter:title" content="1stopsitebuild"/>
+<meta name="twitter:description" content="1 github 创建新的private repo 1stopnewsitecode; clone 到本地D:\hugo\site目录下,为本地hugo代码目录； 2 github 创建新的private repo 1stopnewsitecodedeploy.io; clone 到本地D:\h"/>
 
-  <meta property="og:title" content="git操作要求输入用户名和密码问题" />
-<meta property="og:description" content="根据youtuber Ryan Schachte作者教程搭建git开发环境； 问题一： 使用git push老是碰到：Username for &lsquo;https://github.com&rsquo;: 即使把SSH key" />
+  <meta property="og:title" content="1stopsitebuild" />
+<meta property="og:description" content="1 github 创建新的private repo 1stopnewsitecode; clone 到本地D:\hugo\site目录下,为本地hugo代码目录； 2 github 创建新的private repo 1stopnewsitecodedeploy.io; clone 到本地D:\h" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/posts/mypost/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2022-09-16T17:01:07+08:00" />
-<meta property="article:modified_time" content="2022-09-16T17:01:07+08:00" />
+<meta property="og:url" content="http://localhost:1313/posts/1stopsitebuild/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-09-16T19:44:38+08:00" />
+<meta property="article:modified_time" content="2022-09-16T19:44:38+08:00" />
 
 
 
@@ -197,7 +197,7 @@
           <div class="tags">
             
           </div>
-          <h1>git操作要求输入用户名和密码问题</h1>
+          <h1>1stopsitebuild</h1>
           <h2 class="subheading"></h2>
           <span class="meta">
             Posted by  Murphy 
@@ -222,29 +222,28 @@
               col-lg-8 col-lg-offset-2
               col-md-10 col-md-offset-1
               post-container">
-        <p>根据<a href="https://www.youtube.com/watch?v=LIFvgrRxdt4&amp;t=27s&amp;ab_channel=RyanSchachte">youtuber Ryan Schachte作者教程</a>搭建git开发环境；<br>
-问题一：<br>
-使用git push老是碰到：Username for &lsquo;<a href="https://github.com">https://github.com</a>&rsquo;:
-即使把SSH key加入到github也重复要求输入；</p>
-<p>解决: 删除本地目录，使用SSH git clone重新下载；</p>
-<p>问题二：<br>
-误删/改 .git文件夹下面文件,于是只好重新删掉所有开发目录重新clone.<br>
-务必不要手动修改/删除.git目录下所有东西，否则会破坏repo</p>
-<p>问题三：<br>
-git submodule add -b main url.git public<br>
-fatal: &lsquo;hugositebuildingblog/public&rsquo; already exists and is not a valid git repo<br>
-解决：<br>
-要先把public 目录删掉，让git自己创建此目录</p>
+        <p>1 github 创建新的private repo 1stopnewsitecode; clone 到本地D:\hugo\site目录下,为本地hugo代码目录；<br>
+2 github 创建新的private repo 1stopnewsitecodedeploy.io; clone 到本地D:\hugo\site目录下，为生成的静态deploy文件目录；
+3 在本地hugo代码目录下创建新站点1stopnewsitecodedeploy.io； hugo new site 1stopnewsitecodedeploy.io
+4 安装hugo theme <a href="https://github.com/okkur/syna">Syna</a>
+5 放弃theme Syna， 发现这个theme无法在本地打开，各种调试，还跑到作者repo去提了个issue，人家也没搭理咱，及时止损放弃。具体原因及教训看[这里]。</p>
 
 
         <hr style="visibility: hidden;" />
         <ul class="pager">
           
+          <li class="previous">
+            <a href="/posts/mypost/" data-toggle="tooltip" data-placement="top" title="git操作要求输入用户名和密码问题">
+              Previous<br>
+              <span>git操作要求输入用户名和密码问题</span>
+            </a>
+          </li>
+          
           
           <li class="next">
-            <a href="/posts/1stopsitebuild/" data-toggle="tooltip" data-placement="top" title="1stopsitebuild">
+            <a href="/posts/synadump/" data-toggle="tooltip" data-placement="top" title="hugo theme Syna 从测试到放弃">
               Next<br>
-              <span>1stopsitebuild</span>
+              <span>hugo theme Syna 从测试到放弃</span>
             </a>
           </li>
           
