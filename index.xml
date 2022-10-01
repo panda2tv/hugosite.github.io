@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Hugo</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 20:08:31 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 10:30:51 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github page 的域名规则</title>
+      <link>https://panda2tv.github.io/posts/githubdomainname/</link>
+      <pubDate>Sat, 01 Oct 2022 10:30:51 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/posts/githubdomainname/</guid>
+      <description>github page repo名需要使用用户名，那么域名为 用户名.github.io 否则域名将是https://用户名.github.io.reponame.</description>
+    </item>
+    
     <item>
       <title>hugo theme Syna 从测试到放弃</title>
       <link>https://panda2tv.github.io/posts/synadump/</link>
