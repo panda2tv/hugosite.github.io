@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onlineresource on Tech blog for hugo website building</title>
+    <link>https://panda2tv.github.io/categories/onlineresource/</link>
+    <description>Recent content in onlineresource on Tech blog for hugo website building</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Murphy</copyright>
+    <lastBuildDate>Mon, 03 Oct 2022 15:55:04 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/categories/onlineresource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在线免费ICON资源</title>
+      <link>https://panda2tv.github.io/posts/iconresource/</link>
+      <pubDate>Mon, 03 Oct 2022 15:55:04 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/posts/iconresource/</guid>
+      <description>一个好用的icon在线网站https://fontawesome.com/，免费注册，确认邮件后把发你的id加入网站header，即可随意使</description>
+    </item>
+    
+  </channel>
+</rss>

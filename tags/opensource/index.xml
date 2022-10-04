@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on Tech blog for hugo website building</title>
+    <link>https://panda2tv.github.io/tags/opensource/</link>
+    <description>Recent content in opensource on Tech blog for hugo website building</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Murphy</copyright>
+    <lastBuildDate>Fri, 30 Sep 2022 20:08:31 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo theme Syna 从测试到放弃</title>
+      <link>https://panda2tv.github.io/posts/synadump/</link>
+      <pubDate>Fri, 30 Sep 2022 20:08:31 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/posts/synadump/</guid>
+      <description>在调试hugo的theme Syna的时候碰到如下种种问题解决不了，就及时放弃 下载主题后起server，主页空白无内容；去syna主页研究了下</description>
+    </item>
+    
+  </channel>
+</rss>

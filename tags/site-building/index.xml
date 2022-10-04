@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>site building on Tech blog for hugo website building</title>
+    <link>https://panda2tv.github.io/tags/site-building/</link>
+    <description>Recent content in site building on Tech blog for hugo website building</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Murphy</copyright>
+    <lastBuildDate>Mon, 03 Oct 2022 15:55:04 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/tags/site-building/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在线免费ICON资源</title>
+      <link>https://panda2tv.github.io/posts/iconresource/</link>
+      <pubDate>Mon, 03 Oct 2022 15:55:04 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/posts/iconresource/</guid>
+      <description>一个好用的icon在线网站https://fontawesome.com/，免费注册，确认邮件后把发你的id加入网站header，即可随意使</description>
+    </item>
+    
+    <item>
+      <title>git操作要求输入用户名和密码问题</title>
+      <link>https://panda2tv.github.io/posts/mypost/</link>
+      <pubDate>Fri, 16 Sep 2022 17:01:07 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/posts/mypost/</guid>
+      <description>根据youtuber Ryan Schachte作者教程搭建git开发环境； 问题一： 使用git push老是碰到：Username for &amp;lsquo;https://github.com&amp;rsquo;: 即使把SSH key</description>
+    </item>
+    
+  </channel>
+</rss>

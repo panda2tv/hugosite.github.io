@@ -6,6 +6,43 @@
     <description>Recent content in Categories on Tech blog for hugo website building</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Murphy</copyright><atom:link href="https://panda2tv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Murphy</copyright>
+    <lastBuildDate>Mon, 03 Oct 2022 15:55:04 +0800</lastBuildDate><atom:link href="https://panda2tv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>onlineresource</title>
+      <link>https://panda2tv.github.io/categories/onlineresource/</link>
+      <pubDate>Mon, 03 Oct 2022 15:55:04 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/categories/onlineresource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site building</title>
+      <link>https://panda2tv.github.io/categories/site-building/</link>
+      <pubDate>Mon, 03 Oct 2022 15:55:04 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/categories/site-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://panda2tv.github.io/categories/git/</link>
+      <pubDate>Sat, 01 Oct 2022 10:30:51 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://panda2tv.github.io/categories/themes/</link>
+      <pubDate>Fri, 30 Sep 2022 20:08:31 +0800</pubDate>
+      
+      <guid>https://panda2tv.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
